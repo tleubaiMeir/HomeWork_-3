@@ -1,0 +1,8 @@
+.help{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.help-item{
+    margin: 10px 0;
+}
